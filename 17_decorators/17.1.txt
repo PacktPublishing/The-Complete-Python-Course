@@ -1,0 +1,3 @@
+https://repl.it/@tecladocode/CP1601-SimpledecoratorsinPython#main.py
+https://blog.tecladocode.com/decorators-in-python/
+https://blog.tecladocode.com/python-30-day-29-decorators/

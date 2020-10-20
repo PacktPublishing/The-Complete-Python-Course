@@ -1,0 +1,2 @@
+https://repl.it/@tecladocode/CP094-thefilterfunctioninpython#main.py
+https://blog.tecladocode.com/python-30-day-20-map-filter/

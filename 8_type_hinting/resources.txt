@@ -1,0 +1,4 @@
+https://blog.tecladocode.com/python-30-day-28-type-hinting/
+
+https://docs.python.org/3/library/typing.html
+https://www.python.org/dev/peps/pep-0483/
